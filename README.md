@@ -4,8 +4,6 @@
 
 I'm Thinh, enthusiastic coder from Canada
 
--   🏆 Know about my experiences 👉 _[Resume](https://drive.google.com/file/d/1gIur8Lh62bO130HvnV_FxZ9NiHCKlUwW/view?usp=sharing)_
-
 ### Connect with me 🤝
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[gmail])
