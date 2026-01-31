@@ -2,7 +2,7 @@
 
 ### About me ☺️
 
-I'm Thinh, enthusiastic coder from Canada
+I'm Thinh, an enthusiastic coder from Canada
 
 ### Connect with me 🤝
 
