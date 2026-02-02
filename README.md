@@ -18,4 +18,4 @@ I'm Thinh, an enthusiastic coder from Canada
 </p>
 
 [gmail]: thinhle8180@gmail.com
-[linkedin]: https://linkedin.com/in/thinhle201
+[linkedin]: https://www.linkedin.com/in/thinhle68
