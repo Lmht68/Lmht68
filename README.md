@@ -13,7 +13,7 @@ I'm Thinh, an enthusiastic coder from Canada
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,typescript,kotlin,bash,powershell,numpy,scipy,pandas,opencv,pytorch,sklearn,matplotlib,seaborn,qt,flask,fastapi,nodejs,expressjs,spring,react,jquery,tailwind,bootstrap,d3,jest,pytest,junit,selenium,postman,sqlite,postgres,mongodb,firebase,dbeaver,aws,gcp,cmake,vite,docker,githubactions,git,linux,arduino,raspberrypi&perline=12" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,java,javascript,typescript,kotlin,bash,powershell,numpy,scipy,pandas,opencv,pytorch,sklearn,matplotlib,seaborn,qt,flask,fastapi,nodejs,expressjs,spring,react,jquery,tailwind,bootstrap,d3,jest,pytest,junit,selenium,sqlite,postgres,mongodb,firebase,aws,gcp,cmake,docker,githubactions,git,linux,arduino,raspberrypi&perline=15" />
   </a>
 </p>
 
