@@ -2,7 +2,8 @@
 
 ### About me ☺️
 
-I'm Thinh, an enthusiastic coder from Canada
+- I'm Thinh, an enthusiastic coder from Canada
+- Check out my [**portfolio**][portfolio]🏆
 
 ### Connect with me 🤝
 
@@ -21,3 +22,4 @@ I'm Thinh, an enthusiastic coder from Canada
 
 [gmail]: thinhle8180@gmail.com
 [linkedin]: https://www.linkedin.com/in/thinhle68
+[portfolio]: https://thinhleportfolio.netlify.app
