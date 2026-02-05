@@ -9,6 +9,7 @@
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[gmail])
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)][linkedin]
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)[x]
 
 ### Technologies 💻
 
@@ -22,4 +23,5 @@
 
 [gmail]: thinhle8180@gmail.com
 [linkedin]: https://www.linkedin.com/in/thinhle68
+[x]: https://x.com/lmht68
 [portfolio]: https://thinhleportfolio.netlify.app
