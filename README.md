@@ -9,7 +9,7 @@
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[gmail])
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)][linkedin]
-[![X](https://go-skill-icons.vercel.app/api/icons?i=x)[x]
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)][x]
 
 ### Technologies 💻
 
