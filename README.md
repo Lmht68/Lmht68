@@ -7,8 +7,8 @@
 
 ### Connect with me 🤝
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[gmail])
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)][linkedin]
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:[gmail])&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)][linkedin]&nbsp;&nbsp;&nbsp;
 [![X](https://go-skill-icons.vercel.app/api/icons?i=x)][x]
 
 ### Technologies 💻
